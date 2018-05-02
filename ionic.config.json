@@ -1,0 +1,8 @@
+{
+  "name": "stripe-check",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
